@@ -4,6 +4,6 @@ public class Main
 {
     public static void main(String[] args)
     {
-        System.out.println("trtrtrtrtr GRaphic era 104");
+        System.out.println("toh kaise hai aap log");
     }
 }
